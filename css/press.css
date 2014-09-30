@@ -1,0 +1,21 @@
+
+
+
+#pressPage
+{
+	margin-top: 30px;
+	margin-left: 10px;
+	height: 660px;
+	font-family: Century Gothic, Arial;
+	font-size: 14px;
+}
+
+a:link, a:visited, a:active 
+{
+	color:blue;
+}
+
+a:hover
+{
+	color:#488AC7;
+}

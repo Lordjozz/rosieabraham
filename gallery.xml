@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	backgroundColor="FFFFFF"
+	backgroundTransparent="true"
+	thumbPosition="RIGHT"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	textColor="000000"
+	indexPageName="galleryIndex.html"
+
+>
+  <image imageURL="images/Main Color.jpg"
+	thumbURL="thumbs/Main Color.jpg"
+	linkURL="images/Main Color.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Copyright Ori Jones 2013]]></caption>
+  </image>
+  <image imageURL="images/Side Color.jpg"
+	thumbURL="thumbs/Side Color.jpg"
+	linkURL="images/Side Color.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Copyright Ori Jones 2013]]></caption>
+  </image>
+  <image imageURL="images/Wall Color.jpg"
+	thumbURL="thumbs/Wall Color.jpg"
+	linkURL="images/Wall Color.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Copyright Ori Jones 2013]]></caption>
+  </image>
+  <image imageURL="images/Millie.jpg"
+	thumbURL="thumbs/Millie.jpg"
+	linkURL="images/Millie.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Thoroughly Modern Millie - Exeter Northcott]]></caption>
+  </image>
+  <image imageURL="images/Millie2.jpg"
+	thumbURL="thumbs/Millie2.jpg"
+	linkURL="images/Millie2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Thoroughly Modern Millie - Exeter Northcott]]></caption>
+  </image>
+  <image imageURL="images/Millie3.jpg"
+	thumbURL="thumbs/Millie3.jpg"
+	linkURL="images/Millie3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Thoroughly Modern Millie - Exeter Northcott]]></caption>
+  </image>
+  <image imageURL="images/Millie4.jpg"
+	thumbURL="thumbs/Millie4.jpg"
+	linkURL="images/Millie4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Thoroughly Modern Millie - Exeter Northcott]]></caption>
+  </image>
+  <image imageURL="images/RosieAbraham1.jpg"
+	thumbURL="thumbs/RosieAbraham1.jpg"
+	linkURL="images/RosieAbraham1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Simply The Jest - Phil Maynard]]></caption>
+  </image>
+  <image imageURL="images/RosieAbrahamFullLength.jpg"
+	thumbURL="thumbs/RosieAbrahamFullLength.jpg"
+	linkURL="images/RosieAbrahamFullLength.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Chinese New Year London Parade]]></caption>
+  </image>
+  <image imageURL="images/Sally1.jpg"
+	thumbURL="thumbs/Sally1.jpg"
+	linkURL="images/Sally1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sally, Arcola Theatre - John Wilson]]></caption>
+  </image>
+  <image imageURL="images/Sally2.jpg"
+	thumbURL="thumbs/Sally2.jpg"
+	linkURL="images/Sally2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sally, Arcola Theatre - John Wilson]]></caption>
+  </image>
+  <image imageURL="images/Sally3.jpg"
+	thumbURL="thumbs/Sally3.jpg"
+	linkURL="images/Sally3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sally, Arcola Theatre - John Wilson]]></caption>
+  </image>
+  <image imageURL="images/Sally4.jpg"
+	thumbURL="thumbs/Sally4.jpg"
+	linkURL="images/Sally4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sally, Arcola Theatre - John Wilson]]></caption>
+  </image>
+  <image imageURL="images/STJ.jpg"
+	thumbURL="thumbs/STJ.jpg"
+	linkURL="images/STJ.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Simply The Jest Presents Middle Class Tripe]]></caption>
+  </image>
+</simpleviewergallery>

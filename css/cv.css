@@ -1,0 +1,75 @@
+
+#theatreTitlePanel
+{
+	margin-top: 10px;
+	font-family: Arial;
+	font-size: 16px;
+	padding-left: 40px;
+}
+
+#theatrePanel
+{
+	margin-top: 10px;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+#theatrePanel td
+{
+	font-family: Verdana;
+	font-size: 12px;
+	padding-left: 40px;
+	padding-right: 40px;
+	/*padding-left: 0px;
+	padding-bottom: 5px;*/
+}
+
+#filmTitlePanel
+{
+	margin-top: 10px;
+	font-family: Arial;
+	font-size: 16px;
+	padding-left: 40px;
+}
+
+
+#filmPanel
+{
+	margin-top: 10px;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+
+#filmPanel td
+{
+	font-family: Verdana;
+	font-size: 12px;
+	padding-right: 70px;
+	padding-left: 40px;
+}
+
+
+#skillsTitlePanel
+{
+	font-family: Arial;
+	font-size: 16px;
+	padding-left: 40px;
+}
+
+
+#skillsPanel
+{
+	font-family: Arial;
+	font-size: 16px;
+	padding-bottom: 40px;
+}
+
+#skillsPanel td
+{
+	font-family: Verdana;
+	font-size: 12px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 5px;
+}
